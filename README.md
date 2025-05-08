@@ -85,7 +85,6 @@ This will open the app in your browser at `http://localhost:8501`.
 
 ## 📷 Screenshot
 
-*Add a screenshot of your Streamlit app here:*
 
 ![App Screenshot](./images/img2.png)
 
@@ -108,9 +107,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 **Satyam Pant**
 Feel free to connect or raise issues for feedback or improvements.
 
-```
 
----
-
-You can save this as `README.md` in the root of your repository. Would you like a version with badges (like Python version, Streamlit status, etc.) added too?
-```
