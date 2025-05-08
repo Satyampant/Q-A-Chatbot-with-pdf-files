@@ -87,7 +87,7 @@ This will open the app in your browser at `http://localhost:8501`.
 
 *Add a screenshot of your Streamlit app here:*
 
-![App Screenshot](./assets/img2.png)
+![App Screenshot](./images/img2.png)
 
 ---
 
